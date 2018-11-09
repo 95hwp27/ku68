@@ -59,6 +59,10 @@ a:hover{
     max-width: 100%;
     max-height: 100%;
 }
+.recommend-index{
+    margin-bottom:20px;
+}
+
 
 /*left*/
 .cl-left{
@@ -73,7 +77,7 @@ a:hover{
     display: flex;
     justify-content: space-between;
 }
-.recommend-left,.recommend-right{
+.recommend-item{
     width: 49%;
     /*height: 170px;*/
     overflow: hidden;
@@ -88,7 +92,7 @@ a:hover{
 .cl-card{
     background-color: #fff;
     padding:1rem 1rem 0 1rem;
-    margin:20px 0;
+    margin:0 0 20px 0;
 }
 
 .cl-card .cl-card-image{
@@ -181,7 +185,8 @@ a:hover{
 }
 .right-recommended-list{
     list-style: none;
-    padding:0 10px;
+    padding:0 10px 20px 10px;
+    box-sizing: border-box;
 }
 .right-recommended-list i{
     color:#999;
@@ -189,9 +194,11 @@ a:hover{
 }
 .right-recommended-list li{
     width: 100%;
-    padding:10px 0;
     border-bottom:1px dashed #eaeaea;
     color:#666;
+    height: 40px;
+    line-height:40px;
+    overflow: hidden;
 }
 /*label*/
 .label{
@@ -384,12 +391,15 @@ a:hover{
 .cl-comment-from button{
     float: right;
     border:none;
-    background-color: #eee;
-    color:#bbb;
+    background-color: #FF9400;
+    color:#fff;
     font-size:16px;
     padding:0.5rem 1rem;
     cursor: pointer;
     margin-top:10px;
+}
+.cl-comment-from button:hover{
+    background-color:#f38d00 ;
 }
 .cl-comment-from>div>textarea{
     border:none;
@@ -422,7 +432,7 @@ a:hover{
     height: 12rem;
 }
 
-.recommend-panel-top img,.recommend-left img,.recommend-right img,.cl-card-image img{
+.recommend-panel-top img,.recommend-item img,.cl-card-image img{
     width: 100%;
     max-width: 100%;
     transition:0.4s ease-out;
@@ -430,7 +440,7 @@ a:hover{
     -moz-transition:0.4s ease-out;
     -o-transition:0.4s ease-out;
 }
-.recommend-panel-top img:hover,.recommend-left img:hover,.recommend-right img:hover,.cl-card-image img:hover{
+.recommend-panel-top img:hover,.recommend-item img:hover,.cl-card-image img:hover{
     transform: scale(1.1, 1.1);
     -webkit-transform: scale(1.1, 1.1);
     -o-transform: scale(1.1, 1.1);

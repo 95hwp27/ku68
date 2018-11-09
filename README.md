@@ -1,37 +1,39 @@
 # calmlog
 
-#### 项目介绍
-好看清新的双栏博客模板，可以用来做工作室官网，自媒体官网，个人博客，产品展示等网站。
 
-#### 软件架构
-软件架构说明
+### 模板描述
 
-
-#### 安装教程
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 使用说明
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 参与贡献
-
-1. Fork 本项目
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
+JPress CMS主题，响应式设计，自适应移动端设备浏览，适用于自媒体，新闻，杂志，博客等类型站点。
 
 
-#### 码云特技
+### 模板特点
 
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+* 舒适双栏设计风格；
+* 采用HTML5和CSS3编写；
+* 采用Bootstrap 4编写；
+* 响应式布局（台式机、平板电脑、移动设备）
+* 对于后台开发，代码友好；
+* 清新、现代化设计；
+* 自然舒适动画效果；
+* 支持各类型代码高亮显示；
+
+
+### 浏览器支持
+
+BlueLight支持所有现代浏览器（Chrome，Firefox，Safari），包括IE11和Edge。
+
+
+### 效果展示
+
+![](./screenshots/index.jpg)
+![](./screenshots/details.jpg)
+![](./screenshots/phone.jpg)
+
+
+### 联系Jean
+
+* 有关本模板的任何问题，欢迎添加Jean讨论；
+* 后续更多开源模板，请添加Jean持续关注；
+* 需要sketch文件，Jean很乐意分享；
+* 喜欢Jean的风格，期待找Jean定制。
+* ![](./screenshots/wechat.jpg)
