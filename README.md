@@ -30,7 +30,16 @@ BlueLight支持所有现代浏览器（Chrome，Firefox，Safari），包括IE11
 ![](./screenshots/phone.jpg)
 
 
-### 联系Jean
+### JPress 官网
+
+http://www.jpress.io
+
+
+### JPress School
+
+https://mp.weixin.qq.com/s/GbNv0xaK6jruWqTDJ_Ospw
+
+
 
 * 有关本模板的任何问题，欢迎添加Jean讨论；
 * 后续更多开源模板，请添加Jean持续关注；
