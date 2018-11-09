@@ -40,6 +40,7 @@ http://www.jpress.io
 https://mp.weixin.qq.com/s/GbNv0xaK6jruWqTDJ_Ospw
 
 
+### 联系Jean
 
 * 有关本模板的任何问题，欢迎添加Jean讨论；
 * 后续更多开源模板，请添加Jean持续关注；
