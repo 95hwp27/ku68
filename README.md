@@ -25,9 +25,9 @@ BlueLight支持所有现代浏览器（Chrome，Firefox，Safari），包括IE11
 
 ### 效果展示
 
-![](./screenshots/index.jpg)
-![](./screenshots/details.jpg)
-![](./screenshots/phone.jpg)
+![](./screenshots/index.png)
+![](./screenshots/details.png)
+![](./screenshots/phone.png)
 
 
 ### JPress 官网
